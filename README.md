@@ -17,4 +17,4 @@ After installing Jupyter Notebook you can simply run Jupyter notebook from comma
 
 jupyter notebook (alternatively open Anaconda prompt to open Jupyter Notebook)
 
-After that you can open the downloaded notebook and access our code. It would be good to Kernel->Restart and run all(should run through if all the needed packages are installed, if it stops in the middle, the correct packages need to be installed by running command 'pip install *packageName*' on commandline) before looking into it.
+After that you can open the downloaded notebook and access our code. It would be good to Kernel->Restart and run all(should run through if all the needed packages are installed, if it stops in the middle, the correct packages need to be installed by running command 'pip install *packageName*' on command line) before looking into it.
