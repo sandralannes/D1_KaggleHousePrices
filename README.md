@@ -1,4 +1,4 @@
-# DSproject_Danverjakaksikud
+# D1_KaggleHousePrices
 
 For our project, we used jupyter notebook. To run the code, it is neccessary to have jupyter notebook installed in your computer. For this there are 3 options.
 
@@ -17,4 +17,4 @@ After installing Jupyter Notebook you can simply run Jupyter notebook from comma
 
 jupyter notebook (alternatively open Anaconda prompt to open Jupyter Notebook)
 
-After that you can open the downloaded notebook and access our code. It would be good to Kernel->Restart and run all(Should run through if all the needed packages are installed, if it stops in the middle, the correct packages need to be installed by running command 'pip install *packageName*' on commandline) before looking into it.
+After that you can open the downloaded notebook and access our code. It would be good to Kernel->Restart and run all(should run through if all the needed packages are installed, if it stops in the middle, the correct packages need to be installed by running command 'pip install *packageName*' on commandline) before looking into it.
